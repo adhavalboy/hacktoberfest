@@ -6,8 +6,8 @@
 
 ## Contributing
 
-1. Fork it (<https://github.com/codersfield/hacktoberfest>)
-2. Create your feature branch (`git checkout -b codersfield/hackctoberfest`)
-3. Commit your changes (`git commit -am 'message'`)
-4. Push to the branch (`git push origin codersfield/hackctoberfest`)
+1. Fork it 
+2. Create your feature branch
+3. Commit your changes 
+4. Push to the branch
 5. Create a new Pull Request
